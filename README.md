@@ -16,8 +16,6 @@
 
 ![20201201-013322-0646.png](https://gitee.com/hurui-hust/filebed/raw/master/20201201-013322-0646.png)
 
-![20201201-010723-0893.png](https://gitee.com/hurui-hust/filebed/raw/master/20201201-010723-0893.png)
-
 ![20201201-015723-0742.png](https://gitee.com/hurui-hust/filebed/raw/master/20201201-015723-0742.png)
 
 ![20201201-014024-0390.png](https://gitee.com/hurui-hust/filebed/raw/master/20201201-014024-0390.png)
